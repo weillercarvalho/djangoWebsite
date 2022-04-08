@@ -22,13 +22,13 @@ If any command returns a permission error, run the code and try again:
     
 Install the libs/frameworks below:
 
-pip install django
-pip install pillow
-
+    pip install django
+    pip install pillow
+ 
 
 And run the server:
 
-python manage.py runserver / python3 manage.py runserver
+    python manage.py runserver / python3 manage.py runserver
 
 
 
