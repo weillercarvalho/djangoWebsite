@@ -14,7 +14,7 @@ Than, activate the VE:
 	  Linux
 		source venv/bin/activate
 	  Windows
-		venv/Scripts/Activat
+		venv/Scripts/Activate
     
 If any command returns a permission error, run the code and try again:
 
