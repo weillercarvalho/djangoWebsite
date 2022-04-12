@@ -1,4 +1,4 @@
-# Web Site developed in Python/Django. 🧵
+# Web Site developed in Python/Django with the proposal to find/looking for jobs. 🧵
 
 After download/clone the repository follow this exactlys procedures:
 
